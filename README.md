@@ -1,4 +1,4 @@
-# Pattern Recognition
+# Literary Pattern Recognition
 
 This repository is using the methods in [So & Long (2016)](https://lucian.uchicago.edu/blogs/literarynetworks/files/2015/12/LONG_SO_CI.pdf) on the corpus of Chinese couplets. 
 
